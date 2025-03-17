@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "K2yxCJngM9XrhAk5l+ctojBee+nhobiR5eYw5uyVkvE=",
+  "Source": "AerolabAPI",
+  "BasePath": "_content/AerolabAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

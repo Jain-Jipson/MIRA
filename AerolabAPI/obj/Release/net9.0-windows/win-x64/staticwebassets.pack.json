@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756349563987446.jpg",
+      "PackagePath": "staticwebassets\\visitor_images\\John Doe_638756349563987446.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756351010730250.jpg",
+      "PackagePath": "staticwebassets\\visitor_images\\John Doe_638756351010730250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756353516419164.jpg",
+      "PackagePath": "staticwebassets\\visitor_images\\John Doe_638756353516419164.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756360688153224.jpg",
+      "PackagePath": "staticwebassets\\visitor_images\\John Doe_638756360688153224.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\win-x64\\staticwebassets\\msbuild.AerolabAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\win-x64\\staticwebassets\\msbuild.AerolabAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\win-x64\\staticwebassets\\msbuild.build.AerolabAPI.props",
+      "PackagePath": "build\\AerolabAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.AerolabAPI.props",
+      "PackagePath": "buildMultiTargeting\\AerolabAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\win-x64\\staticwebassets\\msbuild.buildTransitive.AerolabAPI.props",
+      "PackagePath": "buildTransitive\\AerolabAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/AerolabAPI/visitor_images/John Doe_638756349563987446.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\visitor_images\John Doe_638756349563987446.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GLjDXh8gYx9Vv19pr7Hzw\u002BYe7RqlNVY0xOAqz0P5NjQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4011"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GLjDXh8gYx9Vv19pr7Hzw\u002BYe7RqlNVY0xOAqz0P5NjQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 07:55:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AerolabAPI/visitor_images/John Doe_638756349563987446.sfm6h0pjwp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\visitor_images\John Doe_638756349563987446.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sfm6h0pjwp"},{"Name":"integrity","Value":"sha256-GLjDXh8gYx9Vv19pr7Hzw\u002BYe7RqlNVY0xOAqz0P5NjQ="},{"Name":"label","Value":"_content/AerolabAPI/visitor_images/John Doe_638756349563987446.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4011"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GLjDXh8gYx9Vv19pr7Hzw\u002BYe7RqlNVY0xOAqz0P5NjQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 07:55:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

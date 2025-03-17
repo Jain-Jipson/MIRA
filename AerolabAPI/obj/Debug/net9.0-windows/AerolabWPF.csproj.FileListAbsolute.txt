@@ -1,0 +1,4 @@
+C:\Users\jaina\backend\aerolabapi\obj\Debug\net9.0-windows\AerolabWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaina\backend\aerolabapi\obj\Debug\net9.0-windows\AerolabWPF.AssemblyInfoInputs.cache
+C:\Users\jaina\backend\aerolabapi\obj\Debug\net9.0-windows\AerolabWPF.AssemblyInfo.cs
+C:\Users\jaina\backend\aerolabapi\obj\Debug\net9.0-windows\AerolabWPF.csproj.CoreCompileInputs.cache

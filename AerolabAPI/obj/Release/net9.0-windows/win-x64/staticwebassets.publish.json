@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "hbkqzGchvtc7HdN87btOrppWrM4q7nRx41jOjkyMrms=",
+  "Source": "AerolabAPI",
+  "BasePath": "_content/AerolabAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AerolabAPI\\wwwroot",
+      "Source": "AerolabAPI",
+      "ContentRoot": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\",
+      "BasePath": "_content/AerolabAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756349563987446.jpg",
+      "SourceId": "AerolabAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\",
+      "BasePath": "_content/AerolabAPI",
+      "RelativePath": "visitor_images/John Doe_638756349563987446#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sfm6h0pjwp",
+      "Integrity": "GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\visitor_images\\John Doe_638756349563987446.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756351010730250.jpg",
+      "SourceId": "AerolabAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\",
+      "BasePath": "_content/AerolabAPI",
+      "RelativePath": "visitor_images/John Doe_638756351010730250#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sfm6h0pjwp",
+      "Integrity": "GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\visitor_images\\John Doe_638756351010730250.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756353516419164.jpg",
+      "SourceId": "AerolabAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\",
+      "BasePath": "_content/AerolabAPI",
+      "RelativePath": "visitor_images/John Doe_638756353516419164#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sfm6h0pjwp",
+      "Integrity": "GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\visitor_images\\John Doe_638756353516419164.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756360688153224.jpg",
+      "SourceId": "AerolabAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\",
+      "BasePath": "_content/AerolabAPI",
+      "RelativePath": "visitor_images/John Doe_638756360688153224#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sfm6h0pjwp",
+      "Integrity": "GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\visitor_images\\John Doe_638756360688153224.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "visitor_images/John Doe_638756349563987446.jpg",
+      "AssetFile": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756349563987446.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 07:55:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ="
+        }
+      ]
+    },
+    {
+      "Route": "visitor_images/John Doe_638756349563987446.sfm6h0pjwp.jpg",
+      "AssetFile": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756349563987446.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 07:55:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfm6h0pjwp"
+        },
+        {
+          "Name": "label",
+          "Value": "visitor_images/John Doe_638756349563987446.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ="
+        }
+      ]
+    },
+    {
+      "Route": "visitor_images/John Doe_638756351010730250.jpg",
+      "AssetFile": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756351010730250.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 07:58:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ="
+        }
+      ]
+    },
+    {
+      "Route": "visitor_images/John Doe_638756351010730250.sfm6h0pjwp.jpg",
+      "AssetFile": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756351010730250.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 07:58:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfm6h0pjwp"
+        },
+        {
+          "Name": "label",
+          "Value": "visitor_images/John Doe_638756351010730250.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ="
+        }
+      ]
+    },
+    {
+      "Route": "visitor_images/John Doe_638756353516419164.jpg",
+      "AssetFile": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756353516419164.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ="
+        }
+      ]
+    },
+    {
+      "Route": "visitor_images/John Doe_638756353516419164.sfm6h0pjwp.jpg",
+      "AssetFile": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756353516419164.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfm6h0pjwp"
+        },
+        {
+          "Name": "label",
+          "Value": "visitor_images/John Doe_638756353516419164.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ="
+        }
+      ]
+    },
+    {
+      "Route": "visitor_images/John Doe_638756360688153224.jpg",
+      "AssetFile": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756360688153224.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ="
+        }
+      ]
+    },
+    {
+      "Route": "visitor_images/John Doe_638756360688153224.sfm6h0pjwp.jpg",
+      "AssetFile": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756360688153224.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfm6h0pjwp"
+        },
+        {
+          "Name": "label",
+          "Value": "visitor_images/John Doe_638756360688153224.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLjDXh8gYx9Vv19pr7Hzw+Ye7RqlNVY0xOAqz0P5NjQ="
+        }
+      ]
+    }
+  ]
+}

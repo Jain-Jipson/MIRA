@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jaina\\backend\\aerolabAPI\\wwwroot\\visitor_images\\John Doe_638756349563987446.jpg",
+      "PackagePath": "staticwebassets\\visitor_images\\John Doe_638756349563987446.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\staticwebassets\\msbuild.AerolabAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\staticwebassets\\msbuild.AerolabAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\staticwebassets\\msbuild.build.AerolabAPI.props",
+      "PackagePath": "build\\AerolabAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\staticwebassets\\msbuild.buildMultiTargeting.AerolabAPI.props",
+      "PackagePath": "buildMultiTargeting\\AerolabAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows\\staticwebassets\\msbuild.buildTransitive.AerolabAPI.props",
+      "PackagePath": "buildTransitive\\AerolabAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

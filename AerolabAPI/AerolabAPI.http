@@ -1,0 +1,6 @@
+@AerolabAPI_HostAddress = http://localhost:5054
+
+GET {{AerolabAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

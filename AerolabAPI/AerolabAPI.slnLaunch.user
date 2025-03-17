@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AerolabAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AerolabWPF.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
